@@ -1,2 +1,4 @@
-package factorymethod.training2;public class Vehiculo {
+package factorymethod.training2;
+
+public class Vehiculo {
 }

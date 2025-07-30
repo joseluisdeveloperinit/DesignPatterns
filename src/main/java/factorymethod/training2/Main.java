@@ -1,2 +1,4 @@
-package factorymethod.training2;public class Main {
+package factorymethod.training2;
+
+public class Main {
 }
